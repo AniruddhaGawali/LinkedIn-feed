@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "John",
+    "about": "I am a developer",
+    "time": "2h ago",
+    "caption": "hello world",
+    "post": "/img1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "John",
+    "about": "I am a developer",
+    "time": "2h ago",
+    "caption": "hello world",
+    "post": "/img2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "John",
+    "about": "I am a developer",
+    "time": "2h ago",
+    "caption": "hello world",
+    "post": "/img3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "John",
+    "about": "I am a developer",
+    "time": "2h ago",
+    "caption": "hello world",
+    "post": "/img4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "John",
+    "about": "I am a developer",
+    "time": "2h ago",
+    "caption": "hello world",
+    "post": "/img5.jpg"
+  }
+]
