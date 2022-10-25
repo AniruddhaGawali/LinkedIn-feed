@@ -191,6 +191,12 @@
   color: gray;
 }
 
+@media screen and (max-width: 1330px) and (min-width: 1000px) {
+  .textpost span input {
+    margin-left: 0px;
+  }
+}
+
 @media screen and (max-width: 1000px) {
   .mainwrapper {
     width: 70%;
